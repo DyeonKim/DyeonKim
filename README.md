@@ -1,7 +1,7 @@
 <h1 align="center"> Hi there, I'm Doyeon 👋 </h1>
 <br />
 
-<p align="center">Hi, I'm Doyeon Kim, study to be a Mobile developer from South Korea.</p>
+<p align="center">Hi, I'm Doyeon Kim, studying to be a Mobile developer from South Korea.</p>
 <p align="center">🌱 I’m currently learning Kothlin.</p>
 
 <br />
