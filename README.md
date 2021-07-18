@@ -27,7 +27,7 @@
 
 <h3 align="center"> 📫 Contact Me 📫 </h3>
 <p align="center">
-  <a href="vlxjdus@gmail.com" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" width="30" height="30"/></a>
+  <a href="mailto:vlxjdus@gmail.com" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" width="30" height="30"/></a>
 </p>
 
 
