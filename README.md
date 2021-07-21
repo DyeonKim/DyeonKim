@@ -17,7 +17,7 @@
   <img src="https://img.shields.io/badge/EclipseIDE-2C2255?style=flat-square&logo=EclipseIDE&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/Visual Studio-5C2D91?style=flat-square&logo=&logoColor=white"/>&nbsp
-  <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat-square&logo=Android Studio&logoColor=white"/>&nbsp
+  <img src="https://img.shields.io/badge/Android Studio-3DDC84?style=flat-square&logo=&logoColor=white"/>&nbsp
   <br/>
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=Firebase&logoColor=white"/>&nbsp
   <img src="https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=SQLite&logoColor=white"/>&nbsp
