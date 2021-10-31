@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **JAVA, Kotlin and Android**
 
-- 📫 How to reach me **vlxjdus@gmail.com**
+- 📫 How to reach me **[here](vlxjdus@gmail.com)**
 
 
 <h3 align="left">Languages</h3>
@@ -38,8 +38,10 @@
   <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
 </p>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dyeonkim&show_icons=true&locale=en&layout=compact" alt="dyeonkim" /></p>
+<h3 align="left">status:</h3>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=dyeonkim&show_icons=true&locale=en" alt="dyeonkim" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dyeonkim&show_icons=true&hide=jupyter%20notebook&theme=synthwave" alt="dyeonkim" /></p>
+
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=dyeonkim&show_icons=true&theme=synthwave" alt="dyeonkim" /></p>
 
 
