@@ -7,7 +7,7 @@
 
 - 💬 Ask me about **JAVA, Kotlin and Android**
 
-- 📫 How to reach me **[here](vlxjdus@gmail.com)**
+- 📫 How to reach me **[here](devdoyeonkim@gmail.com)**
 
 
 <h3 align="left">Languages</h3>
