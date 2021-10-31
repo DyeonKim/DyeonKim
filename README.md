@@ -40,8 +40,7 @@
 
 <h3 align="left">status:</h3>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dyeonkim&show_icons=true&hide=jupyter%20notebook&theme=synthwave" alt="dyeonkim" /></p>
-
-<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=dyeonkim&show_icons=true&theme=synthwave" alt="dyeonkim" /></p>
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dyeonkim&hide=jupyter%20notebook&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
+[![Doyoen's GitHub stats](https://github-readme-stats.vercel.app/api?username=dyeonkim&show_icons=true&theme=synthwave)](https://github.com/anuraghazra/github-readme-stats)
 
 
