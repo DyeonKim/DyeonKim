@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **Kotlin, jetpack**
 
-- 💬 Ask me about **JAVA, Kotlin and Android**
-
 - 📫 How to reach me **[here](devdoyeonkim@gmail.com)**
 
 
