@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Doyeon Kim</h1>
 <h3 align="center">A passionate Android developer from South Korea.</h3>
 
-- 🔭 I’m currently working on [ESCA_Homepage](https://github.com/ESCA-HOMEPAGE)
-
 - 🌱 I’m currently learning **Kotlin, jetpack**
 
 - 📫 How to reach me **[here](devdoyeonkim@gmail.com)**
